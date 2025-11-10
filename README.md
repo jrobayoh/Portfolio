@@ -25,5 +25,5 @@
 ---
 
 ## 📫 Connect
-🔗 LinkedIn: https://linkedin.com/in/jhonatan.robayo.h  
+🔗 LinkedIn: https://linkedin.com/in/jhonatan-robayo-h  
 📧 Email: Jhonatan.robayo@gmail.com
