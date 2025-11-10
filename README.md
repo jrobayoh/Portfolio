@@ -2,7 +2,7 @@
  🔐 Jhonatan Robayo | Network Security Portfolio
 
 > Network Security, Vulnerability Management, Incident Response, Cloud Security  
-> 🎓 MSc Cybersecurity (In Progress) | 10+ years Networking & ITS  
+> 🎓 MSc Cybersecurity | BSc Computer Engineering 10+ years Networking & ITS  
 > 💼 Target Role: Network Security Engineer | SOC | Cloud Security | Cybersecurity
 
 ---
