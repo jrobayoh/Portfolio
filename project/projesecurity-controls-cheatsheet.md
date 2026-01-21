@@ -36,10 +36,10 @@ Fill this in yourself:
 
 | Control | Type | Function |
 |---|---|---|
-| Security awareness training |  |  |
-| EDR (endpoint detection & response) |  |  |
-| CCTV cameras |  |  |
-| Daily backups |  |  |
-| Firewall rule blocking inbound SMB |  |  |
-| Incident response playbook |  |  |
+| Security awareness training | Administrative | Directive |
+| EDR (endpoint detection & response) | Technical | Detective |
+| CCTV cameras | Physical | Detective |
+| Daily backups | Technical | Recovery |
+| Firewall rule blocking inbound SMB | Technical | Preventing |
+| Incident response playbook | Administrative | Directive |
 
