@@ -118,6 +118,9 @@ This demonstrates how **secure hardware can protect AI models deployed on embedd
 - Encryption-protected software deployment
 - AI inference on secured edge hardware
 
+  **Demo:
+  https://youtu.be/eikhU9D1p5s?si=8EU1AoXOgRXcrtnw**
+
 ---
 
 ### Mini-Projects (Reports / Diagrams / Playbooks)
