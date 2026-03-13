@@ -110,7 +110,7 @@ This demonstrates how **secure hardware can protect AI models deployed on embedd
 
 ---
 
-# What This Project Demonstrates
+#### What This Project Demonstrates
 
 - Secure embedded system design
 - Hardware-rooted trust architectures
